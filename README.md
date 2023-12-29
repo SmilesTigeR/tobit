@@ -1,4 +1,8 @@
 # Tobit Regression
+
+## Overview
+
+This repo provides a Python Package for implementation of Tobit Regression written in statsmodels like class object. Please find the details below.
   
 ## Formation
 
